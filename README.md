@@ -1,5 +1,4 @@
 # RISC-V Code Density Optimization using RL
-**Project for IcETRAN 2026**
 
 ## Overview
 This project explores the use of **Reinforcement Learning**, **Genetic Algorithms**, and **Greedy Search** to optimize code size (Code Density) for LLVM-based compilers using the `CompilerGym` environment.
